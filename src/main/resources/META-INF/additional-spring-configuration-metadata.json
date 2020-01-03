@@ -1,0 +1,23 @@
+{
+  "properties": [
+    {
+      "name": "elastic.regCenter.serverList",
+      "type": "java.lang.String",
+      "description": "Description for elastic.regCenter.serverList."
+    },
+    {
+      "name": "elastic.regCenter.namespace",
+      "type": "java.lang.String",
+      "description": "Description for elastic.regCenter.namespace."
+    },
+    {
+      "name": "elastic.regCenter.regmaxRetries",
+      "type": "java.lang.String",
+      "description": "Description for elastic.regCenter.regmaxRetries."
+    },
+    {
+      "name": "elastic.job.cron",
+      "type": "java.lang.String",
+      "description": "Description for elastic.job.cron."
+    }
+  ] }
